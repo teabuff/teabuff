@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Nice to meet you!
+
+![GitHub Stats person](https://github-readme-stats.vercel.app/api?username=teabuff)
+![GitHub Stats top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teabuff&layout=compact)
